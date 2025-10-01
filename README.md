@@ -46,3 +46,9 @@ This project assesses the **Business Intelligence (BI) maturity** of a small-med
 - Total complaints: 20; average resolution time: 4.7 days.
 - Most common complaints: electricity, maintenance, noise, plumbing, security.
 - Resolution delays mostly in electricity and security issues.
+
+---
+
+## Dashboard PDF
+[BI Dashboard (PDF)](dashboard/Tsavo%20Presentation%20Dashboard.pdf)
+
